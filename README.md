@@ -43,10 +43,10 @@ Around 368 sources and 334 crawlers are supported.
 
 <table>
 <tbody>
-<tr><th></th>
+<tr>
 <th>Source URL</th>
 <th>Version</th>
-<th></th>
+
 </tr>
 <tr><td><span title="Contains machine translations">🤖</span><span title="Supports searching">🔍</span><span title="Supports login"></span><span title="Contains manga/manhua/manhwa"></span></td>
 <td><a href="http://es.mtlnovel.com/" target="_blank">http://es.mtlnovel.com/</a></td>
@@ -141,10 +141,10 @@ Around 368 sources and 334 crawlers are supported.
 
 <table>
 <tbody>
-<tr><th></th>
+<tr>
 <th>Source URL</th>
 <th>Version</th>
-<th></th>
+
 </tr>
 <tr><td><span title="Contains machine translations"></span><span title="Supports searching">🔍</span><span title="Supports login"></span><span title="Contains manga/manhua/manhwa"></span></td>
 <td><a href="https://arnovel.me/" target="_blank">https://arnovel.me/</a></td>
@@ -169,7 +169,7 @@ Around 368 sources and 334 crawlers are supported.
 
 <table>
 <tbody>
-<tr><th></th>
+<tr>
 <th>Source URL</th>
 <th>Version</th>
 
@@ -1677,10 +1677,10 @@ Around 368 sources and 334 crawlers are supported.
 
 <table>
 <tbody>
-<tr><th></th>
+<tr>
 <th>Source URL</th>
 <th>Version</th>
-<th></th>
+
 </tr>
 <tr><td><span title="Contains machine translations"></span><span title="Supports searching"></span><span title="Supports login"></span><span title="Contains manga/manhua/manhwa"></span></td>
 <td><a href="https://cclawtranslations.home.blog/" target="_blank">https://cclawtranslations.home.blog/</a></td>
@@ -1700,10 +1700,10 @@ Around 368 sources and 334 crawlers are supported.
 
 <table>
 <tbody>
-<tr><th></th>
+<tr>
 <th>Source URL</th>
 <th>Version</th>
-<th></th>
+
 </tr>
 <tr><td><span title="Contains machine translations"></span><span title="Supports searching">🔍</span><span title="Supports login"></span><span title="Contains manga/manhua/manhwa">🖼️</span></td>
 <td><a href="https://anime-sama.fr/" target="_blank">https://anime-sama.fr/</a></td>
@@ -1738,10 +1738,10 @@ Around 368 sources and 334 crawlers are supported.
 
 <table>
 <tbody>
-<tr><th></th>
+<tr>
 <th>Source URL</th>
 <th>Version</th>
-<th></th>
+
 </tr>
 <tr><td><span title="Contains machine translations"></span><span title="Supports searching"></span><span title="Supports login"></span><span title="Contains manga/manhua/manhwa"></span></td>
 <td><a href="http://zhi-end.blogspot.co.id/" target="_blank">http://zhi-end.blogspot.co.id/</a></td>
@@ -1841,10 +1841,10 @@ Around 368 sources and 334 crawlers are supported.
 
 <table>
 <tbody>
-<tr><th></th>
+<tr>
 <th>Source URL</th>
 <th>Version</th>
-<th></th>
+
 </tr>
 <tr><td><span title="Contains machine translations"></span><span title="Supports searching">🔍</span><span title="Supports login"></span><span title="Contains manga/manhua/manhwa"></span></td>
 <td><a href="https://blnovels.net/" target="_blank">https://blnovels.net/</a></td>
@@ -1869,10 +1869,10 @@ Around 368 sources and 334 crawlers are supported.
 
 <table>
 <tbody>
-<tr><th></th>
+<tr>
 <th>Source URL</th>
 <th>Version</th>
-<th></th>
+
 </tr>
 <tr><td><span title="Contains machine translations"></span><span title="Supports searching">🔍</span><span title="Supports login"></span><span title="Contains manga/manhua/manhwa">🖼️</span></td>
 <td><a href="https://bestmanga.club/" target="_blank">https://bestmanga.club/</a></td>
@@ -1907,10 +1907,10 @@ Around 368 sources and 334 crawlers are supported.
 
 <table>
 <tbody>
-<tr><th></th>
+<tr>
 <th>Source URL</th>
 <th>Version</th>
-<th></th>
+
 </tr>
 <tr><td><span title="Contains machine translations">🤖</span><span title="Supports searching">🔍</span><span title="Supports login"></span><span title="Contains manga/manhua/manhwa"></span></td>
 <td><a href="https://docln.net/" target="_blank">https://docln.net/</a></td>
@@ -1940,10 +1940,10 @@ Around 368 sources and 334 crawlers are supported.
 
 <table>
 <tbody>
-<tr><th></th>
+<tr>
 <th>Source URL</th>
 <th>Version</th>
-<th></th>
+
 </tr>
 <tr><td><span title="Contains machine translations"></span><span title="Supports searching">🔍</span><span title="Supports login"></span><span title="Contains manga/manhua/manhwa"></span></td>
 <td><a href="https://sj.uukanshu.com/" target="_blank">https://sj.uukanshu.com/</a></td>
