@@ -37,7 +37,7 @@ $ python lncrawl
 
 <!-- auto generated supported sources list -->
 
-We are supporting 368 sources and 334 crawlers.
+Around 368 sources and 334 crawlers are supported.
 
 ### `~` Unknown
 
