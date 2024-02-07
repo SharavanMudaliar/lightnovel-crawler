@@ -333,73 +333,12 @@ options:
  🔗  https://github.com/dipu-bd/lightnovel-crawler/issues 
 ================================================================================
 ```
-<!-- auto generated command line output -->
 
-### Example Usage
 
-Open your console and type `lncrawl --version` first to check if you have installed it properly.
-Here are some example usage of the app:
 
-- To start an interactive session: `lncrawl`
-
-- To download using an url: `lncrawl -s https://boxnovel.com/novel/reincarnation-of-the-strongest-sword-god/`
-- To search novels: `lncrawl -q "Strongest Sword God"`
-- To search novels from selected sources: `lncrawl -q "Strongest Sword God" --sources`
-
-- To download all chapters: `lncrawl --all`
-- To download first 25 chapters: `lncrawl --first 25`
-- To download all between two chapters: `lncrawl --range 10 30`
-- To download all between two chapter links: `lncrawl -s https://novelfull.com/release-that-witch.html --chapters https://novelfull.com/release-that-witch/chapter-6-training-part-i.html https://novelfull.com/release-that-witch/chapter-8-months-of-the-demons-part-1.html`
-- To download a specific volumes: `lncrawl --volumes 2 3`
-
-- To define output path: `lncrawl -o "D:\Lightnovels\reincarnation-of-the-strongest-sword-god"`
-- To delete the output folder if exists: `lncrawl -f`
-- To ignore the output folder if exists: `lncrawl -i`
-- To resume download where is has been left previously: `lncrawl -i`
-- To specify output formats: `lncrawl --format epub pdf mobi`
-
-- To display list of supported sources: `lncrawl --list-sources`
-
-- If you provide an option in the argument, it will skip it in the interactive session.
-  If you want to disable all interactive prompts, pass `--suppress` at the end.
-
-- You can stack up options like this: `lncrawl -s https://boxnovel.com/novel/reincarnation-of-the-strongest-sword-god/ -o "D:\Lightnovels\reincarnation-of-the-strongest-sword-god" --last 50 -i --format pdf --suppress`
-
-### Additional Help
-
-Visit the [discussions](https://github.com/dipu-bd/lightnovel-crawler/discussions) page for more information. You can also post your query there too.
-
-### Login to [www.wuxiaworld.com](https://www.wuxiaworld.com/)
-
-Follow this guide to know how to login: https://github.com/dipu-bd/lightnovel-crawler/discussions/1360
-
-## Development
-
-You are very welcome to contribute in this project. You can:
-
-- create new issues pointing out the bugs.
-- solve existing issues.
-- add your own sources.
-- add new output formats.
-- create new bots.
-
-### Adding new source
-
-- Use `lncrawl --bot lookup` first to auto-generate your crawler from an existing template.
-- Check inside the [`sources/_examples`](https://github.com/dipu-bd/lightnovel-crawler/blob/master/sources/_examples). Read all the comments of all the files. And pick the one you like.
-- You can find plenty examples in the `sources` folder. Try to check the latest ones
-- Put your source file inside the language folder.
-  The `en` folder has too many files, therefore it is grouped using the first letter of the domain name.
-- Before making commit format files using `blake` formatter, and use `scripts/lint.sh` or `scripts/lint.bat` to check linting issues.
-
-### Adding new Bot
-
-- Create a new bot file using [`bots/_sample.py`](https://github.com/dipu-bd/lightnovel-crawler/blob/master/lncrawl/bots/_sample.py) as template.
-- Import bot to [`bots/__init__.py`](https://github.com/dipu-bd/lightnovel-crawler/blob/master/lncrawl/bots/__init__.py) file.
 
 ## Supported sources
 
-> Request new one by [creating a new issue](https://github.com/dipu-bd/lightnovel-crawler/issues/new/choose).
 
 <!-- auto generated supported sources list -->
 
@@ -2566,12 +2505,4 @@ We are supporting 368 sources and 334 crawlers.
 - SNB
 - TCR
 
-## Sponsors
 
-<table>
-  <tbody>
-    <tr align="center">
-      <td align="center"><a href="https://wuxiaworld.eu"><img src="https://www.wuxiaworld.eu/apple-touch-icon.png" width="200px;" alt=""/><br /><sub><h3>Wuxiaworld</b></sub></a></td>
-    </tr>
-  </tbody>
-</table>
