@@ -1,4 +1,4 @@
-# Lightnovel Crawler
+# CN-Webnovel Crawler
 An app to download novels from online sources and generate e-books.
 
 
